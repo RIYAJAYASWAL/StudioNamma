@@ -29,7 +29,7 @@ nav{
     position: fixed;
     padding: 20px;
     z-index: 9999;
-    font-family: "GTlight";
+    font-family: GTlight !important;
 
 }
 .nav-left{
@@ -215,7 +215,7 @@ nav{
     letter-spacing: 2px;
 }
 .creative p{
-    font-family: "GTlight";
+    font-family: GTlight !important;
     padding-bottom: 14.4px;
 }
 .creative h1{
@@ -253,7 +253,7 @@ nav{
     width: 30%;
     align-items:baseline;
     justify-content: start;
-    font-family: "GTlight";
+    font-family: GTlight !important;
     padding-left: 20px;
     color: #111111;
 }
@@ -337,7 +337,7 @@ nav{
     width: 30px;
     align-items:baseline;
     justify-content: start;
-    font-family: "GTlight";
+    font-family: GTlight !important;
     color: #111111;
     position: absolute;
     top: 16%;
@@ -374,7 +374,7 @@ nav{
 .service-item .subtext {
     height: 5vh;
     width: 25vh;
-    font-family: "GTlight";
+    font-family: GTlight !important;
     font-size: 16px;
     display: flex;
     align-items: center;
@@ -424,7 +424,7 @@ nav{
     justify-content: start;
     position: absolute;
     bottom: 3%;
-    font-family: "GTlight";
+    font-family: GTlight !important;
     font-size: 15px;
     gap: 10px;
     transition: all ease 0.5s;
@@ -516,7 +516,7 @@ nav{
     align-items: center;
     justify-content: start;
     position: absolute;
-    font-family: "GTlight";
+    font-family: GTlight !important;
     top: 30%;
     gap: 10px;
     color: #545252;
@@ -560,7 +560,7 @@ nav{
     width: 100%;
     padding: 20px;
     display: flex;
-    font-family:"GTlight";
+    font-family:GTlight !important;
     text-transform: uppercase;
 }
 .footer-l{
@@ -597,7 +597,7 @@ nav{
     position: fixed;
     z-index: 9999;
     bottom: 2px;
-    font-family: "GTlight";
+    font-family:GTlight !important;
     height: 50px;
     width: 100%;
     display: flex;
