@@ -12,11 +12,11 @@ html, body {
 }
 @font-face {
   font-family: GTlight;
-  src: url(/GTPressuraMono-Light.ttf);
+  src: url("./GTPressuraMono-Light.ttf");
 }
 @font-face {
   font-family: GTbold;
-  src: url(/GTPressuraMono-Bold.ttf);
+  src: url("./GTPressuraMono-Bold.ttf");
 }
 nav{
     height: 8%;
